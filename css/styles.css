@@ -283,14 +283,12 @@ img {
 .menu {
   display: flex;
   gap: 50px;
-  /* flex-wrap: wrap; */
 }
 
 .contacts {
   display: flex;
   gap: 50px;
   margin-left: auto;
-  /* flex-wrap: wrap; */
 }
 
 .hero-flex {
